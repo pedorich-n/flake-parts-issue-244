@@ -61,15 +61,14 @@
         "flake-parts": "flake-parts",
         "nixpkgs": "nixpkgs",
         "pre-commit-hooks": "pre-commit-hooks",
-        "systems": "systems",
         "treefmt-nix": "treefmt-nix"
       },
       "locked": {
-        "lastModified": 1725106698,
-        "narHash": "sha256-r3+PTjOSTW/aSG/8TrFcEUwy3tBnzGwION9L9THqw/A=",
+        "lastModified": 1725285857,
+        "narHash": "sha256-/XsNvpFNruUU9O7q9cl/9XPpptJXzHcbJcBgLoMvuUA=",
         "owner": "pedorich-n",
         "repo": "nix-dev-flake",
-        "rev": "3fb1e66b7c7129084be813082527c09c4e2a5d6e",
+        "rev": "c874c9ce02726b54478fea8c649357eebcea57e2",
         "type": "github"
       },
       "original": {
@@ -150,21 +149,6 @@
     "root": {
       "inputs": {
         "nix-dev-flake": "nix-dev-flake"
-      }
-    },
-    "systems": {
-      "locked": {
-        "lastModified": 1681028828,
-        "narHash": "sha256-Vy1rq5AaRuLzOxct8nz4T6wlgyUR7zLU309k9mBC768=",
-        "owner": "nix-systems",
-        "repo": "default",
-        "rev": "da67096a3b9bf56a91d16901293e51ba5b49a27e",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nix-systems",
-        "repo": "default",
-        "type": "github"
       }
     },
     "treefmt-nix": {
